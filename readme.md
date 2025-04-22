@@ -1,6 +1,6 @@
 # Tenki 天気
 
-Tenki is a command-line tool for visualizing weather conditions. The name "Tenki" comes from the Japanese word for "weather."
+Tenki is a command-line tool for visualizing weather conditions. The name "Tenki" comes from the Japanese word for "weather".
 
 ![tenki example](./assets/tenki_example.png)
 
